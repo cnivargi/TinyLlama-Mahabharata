@@ -1,9 +1,3 @@
-### **📜 README.md for GitHub: Fine-Tuning TinyLlama on Mahabharata Dataset**  
-
-Copy and paste the following **well-structured README.md** into your GitHub repository:  
-
----
-
 # **📖 Fine-Tuning TinyLlama on Mahabharata Dataset**  
 
 🚀 **Fine-tuning the TinyLlama 1.1B model on the Mahabharata dataset** to generate responses based on Sanskrit literature.  
