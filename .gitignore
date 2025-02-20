@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+nenv/
+
+# Ignore large files and cache folders
+final_model_mahabharata/
+tinyllama_model/
+tokenized_mahabharata/
+triton/
+unsloth_compiled_cache/
+__pycache__/
+
+# Ignore backup files
+README_backup.md
